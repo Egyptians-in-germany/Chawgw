@@ -96,6 +96,9 @@ class ChawgwTemplate extends BaseTemplate
 <!--							<a href="https://www.egyptians-in-germany.de"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/twitter.png" alt="Chawg on Twitter"/></a>-->
 <!--						</li>-->
 <!--					</ul>-->
+					<ul>
+
+					</ul>
 					<!-- Sereta  GERRAN xishte-->
 					<form action="<?php $this->text('wgScript'); ?>" id="searchform">
 						<input type='hidden' name="title" value="<?php $this->text('searchtitle') ?>"/>
@@ -306,10 +309,10 @@ class ChawgwTemplate extends BaseTemplate
 					<ul>
 
 						<!-- <li class="widget">
-				<?php echo Html::element(
-							'img',
-							array('id' => 'logo', 'src' => $this->data['logopath'], 'alt' => '')
-						); ?>
+<!--				--><?php //echo Html::element(
+//							'img',
+//							array('id' => 'logo', 'src' => $this->data['logopath'], 'alt' => '')
+//						); ?>
 			</li> -->
 
 						<li class="widget">
