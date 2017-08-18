@@ -85,19 +85,16 @@ class ChawgwTemplate extends BaseTemplate
 				</a>
 
 				<div id="torrlink">
-<!--					<ul>-->
-<!--						<li>-->
-<!--							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/google_plus.png" alt="Chawg on GooglePlus"/></a>-->
-<!--						</li>-->
-<!--						<li>-->
-<!--							<a href="https://www.egyptians-in-germany.de"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/facebook.png" alt="Chawg on Facebook"/></a>-->
-<!--						</li>-->
-<!--						<li>-->
-<!--							<a href="https://www.egyptians-in-germany.de"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/twitter.png" alt="Chawg on Twitter"/></a>-->
-<!--						</li>-->
-<!--					</ul>-->
 					<ul>
-
+						<li>
+							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/google_plus.png" alt="Chawg on GooglePlus"/></a>
+						</li>
+						<li>
+							<a href="https://www.egyptians-in-germany.de"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/facebook.png" alt="Chawg on Facebook"/></a>
+						</li>
+						<li>
+							<a href="https://www.egyptians-in-germany.de"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/twitter.png" alt="Chawg on Twitter"/></a>
+						</li>
 					</ul>
 					<!-- Sereta  GERRAN xishte-->
 					<form action="<?php $this->text('wgScript'); ?>" id="searchform">
@@ -309,10 +306,10 @@ class ChawgwTemplate extends BaseTemplate
 					<ul>
 
 						<!-- <li class="widget">
-<!--				--><?php //echo Html::element(
-//							'img',
-//							array('id' => 'logo', 'src' => $this->data['logopath'], 'alt' => '')
-//						); ?>
+				<?php echo Html::element(
+							'img',
+							array('id' => 'logo', 'src' => $this->data['logopath'], 'alt' => '')
+						); ?>
 			</li> -->
 
 						<li class="widget">
