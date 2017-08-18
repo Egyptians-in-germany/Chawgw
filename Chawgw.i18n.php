@@ -14,7 +14,7 @@ $messages = array();
  */
 $messages['en'] = array(
 	'skinname-chawgw'             => 'Chawgw',
-	'chawgw-desc'                 => 'ڕووکارێکی سادەیە بۆ چاوگ ڕێکخراوە.',
+	'chawgw-desc'                 => 'Ported version of Chawgw for Egyptians in Germany wiki',
 	'chawgw-skiptocontent'        => 'Skip to content',
 	'chawgw-skiptosearch'         => 'Skip to search',
 	'chawgw-action-addsection'    => 'Add topic',
@@ -32,7 +32,7 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'skinname-chawgw'          => 'Skin name',
-	'chawgw-desc'              => '{{desc|name=Chawgw|url=http://www.chawg.org/wiki}}',
+	'chawgw-desc'              => '{{desc|name=Chawgw|url=https://www.egyptians-in-germany.de}}',
 	'chawgw-skiptocontent'     => 'Link to skip directly to the content on the page',
 	'chawgw-skiptosearch'      => 'Link to skip directly to the search box on the page',
 	'chawgw-action-addsection' => 'Link to add a new section to talk page, overriding the default of "+"',

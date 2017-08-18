@@ -16,7 +16,7 @@ if(!defined('MEDIAWIKI'))
 $wgExtensionCredits['skin'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'Chawgw',
-	'url'            => 'http://www.chawg.org/wiki',
+	'url'            => 'https://www.egyptians-in-germany.de',
 	'author'         => array('Sia', 'Others'),
 	'version'        => '1.1',
 	'descriptionmsg' => 'chawgw-desc',

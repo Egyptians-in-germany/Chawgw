@@ -85,17 +85,17 @@ class ChawgwTemplate extends BaseTemplate
 				</a>
 
 				<div id="torrlink">
-					<ul>
-						<li>
-							<a href="https://plus.google.com/105529644745701857276" rel="publisher"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/google_plus.png" alt="Chawg on GooglePlus"/></a>
-						</li>
-						<li>
-							<a href="https://www.facebook.com/chawg"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/facebook.png" alt="Chawg on Facebook"/></a>
-						</li>
-						<li>
-							<a href="https://twitter.com/chawg"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/twitter.png" alt="Chawg on Twitter"/></a>
-						</li>
-					</ul>
+<!--					<ul>-->
+<!--						<li>-->
+<!--							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/google_plus.png" alt="Chawg on GooglePlus"/></a>-->
+<!--						</li>-->
+<!--						<li>-->
+<!--							<a href="https://www.egyptians-in-germany.de"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/facebook.png" alt="Chawg on Facebook"/></a>-->
+<!--						</li>-->
+<!--						<li>-->
+<!--							<a href="https://www.egyptians-in-germany.de"><img src="http://chawg.org/meko/style/AirFixed_rtl/img/twitter.png" alt="Chawg on Twitter"/></a>-->
+<!--						</li>-->
+<!--					</ul>-->
 					<!-- Sereta  GERRAN xishte-->
 					<form action="<?php $this->text('wgScript'); ?>" id="searchform">
 						<input type='hidden' name="title" value="<?php $this->text('searchtitle') ?>"/>
