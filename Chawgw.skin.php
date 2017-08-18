@@ -87,13 +87,13 @@ class ChawgwTemplate extends BaseTemplate
 				<div id="torrlink">
 					<ul>
 						<li>
-							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/google_plus.png" alt="Chawg on GooglePlus"/></a>
+							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="/wiki/skins/Chawgw/assets/images/google_plus.png" alt="Chawg on GooglePlus"/></a>
 						</li>
 						<li>
-							<a href="https://www.egyptians-in-germany.de"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/facebook.png" alt="Chawg on Facebook"/></a>
+							<a href="https://www.egyptians-in-germany.de"><img src="/wiki/skins/Chawgw/assets/images/facebook.png" alt="Chawg on Facebook"/></a>
 						</li>
 						<li>
-							<a href="https://www.egyptians-in-germany.de"><img src="http://egyptians-in-germany.de/skins/Chawgw/assets/images/twitter.png" alt="Chawg on Twitter"/></a>
+							<a href="https://www.egyptians-in-germany.de"><img src="/wiki/skins/Chawgw/assets/images/twitter.png" alt="Chawg on Twitter"/></a>
 						</li>
 					</ul>
 					<!-- Sereta  GERRAN xishte-->
