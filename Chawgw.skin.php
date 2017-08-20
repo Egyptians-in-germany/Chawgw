@@ -85,17 +85,6 @@ class ChawgwTemplate extends BaseTemplate
 				</a>
 
 				<div id="torrlink">
-					<ul>
-						<li>
-							<a href="https://www.egyptians-in-germany.de" rel="publisher"><img src="/wiki/skins/Chawgw/assets/images/google_plus.png" alt="Egyptians In Germany on GooglePlus"/></a>
-						</li>
-						<li>
-							<a href="https://www.egyptians-in-germany.de"><img src="/wiki/skins/Chawgw/assets/images/facebook.png" alt="Egyptians In Germany on Facebook"/></a>
-						</li>
-						<li>
-							<a href="https://www.egyptians-in-germany.de"><img src="/wiki/skins/Chawgw/assets/images/twitter.png" alt="Egyptians In Germany on Twitter"/></a>
-						</li>
-					</ul>
 					<!-- Sereta  GERRAN xishte-->
 					<form action="<?php $this->text('wgScript'); ?>" id="searchform">
 						<input type='hidden' name="title" value="<?php $this->text('searchtitle') ?>"/>
