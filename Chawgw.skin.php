@@ -305,7 +305,7 @@ class ChawgwTemplate extends BaseTemplate
 							<?php echo $this->msgWikiNoEdit('chawgw-extracontent-column3'); ?>
 						</li>
 						<h3> المصريون في ألمانيا </h3>
-						<li><a href="https://egyptians-in-germany.de/">مثال على رابط</a></li>
+						<!--<li><a href="https://egyptians-in-germany.de/">مثال على رابط</a></li>-->
 					</ul>
 				</div>
 				<div style="clear: both"></div>
