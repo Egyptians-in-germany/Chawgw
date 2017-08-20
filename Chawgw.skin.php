@@ -305,7 +305,8 @@ class ChawgwTemplate extends BaseTemplate
 							<?php echo $this->msgWikiNoEdit('chawgw-extracontent-column3'); ?>
 						</li>
 						<h3> المصريون في ألمانيا </h3>
-						<!--<li><a href="https://egyptians-in-germany.de/">مثال على رابط</a></li>-->
+						<li><a href="https://egyptians-in-germany.de/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%88%D9%86_%D9%81%D9%8A_%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7:%D8%B9%D9%86">عن المصريون في ألمانيا</a></li>
+						<li><a href="https://egyptians-in-germany.de/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%88%D9%86_%D9%81%D9%8A_%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7:%D8%A5%D8%AE%D9%84%D8%A7%D8%A1_%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9_%D8%B9%D8%A7%D9%85">إخلاء مسئولية</a></li>
 					</ul>
 				</div>
 				<div style="clear: both"></div>
